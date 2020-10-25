@@ -20,6 +20,8 @@ or by running `:CocInstall` in Vim.
 :CocInstall https://github.com/codechips/coc-svelte
 ```
 
+This repo is integrated with Dependabot, so hopefully it will some what stay in sync with Svelte language-server changes.
+
 ## Setup
 
 Do you want to use Typescript/SCSS/Less/..? See "Using with preprocessors" below.
