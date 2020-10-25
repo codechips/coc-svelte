@@ -4,13 +4,21 @@
 
 Provides rich intellisense for Svelte components in (neo)vim, utilising the [svelte language server](https://github.com/sveltejs/language-tools/tree/master/packages/language-server).
 
-## Install
+## NOTE
 
-``` vim
-:CocInstall coc-svelte
+This is the official `coc-svelte` version, but with the latest dependencies. You can use this one or create your own.
+
+To use add this line to your Vim config if you are using [vim-plug](https://github.com/junegunn/vim-plug).
+
+```text
+Plug 'codechips/coc-svelte', {'do': 'npm install'}
 ```
 
-> You have to install syntax plugin to get syntax highlight and get right filetype, for example `leafOfTree/vim-svelte-plugin`
+or by running `:CocInstall` in Vim.
+
+```text
+:CocInstall https://github.com/codechips/coc-svelte
+```
 
 ## Setup
 
