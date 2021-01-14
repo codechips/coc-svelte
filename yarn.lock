@@ -1058,10 +1058,10 @@ pify@^3.0.0:
   resolved "https://registry.yarnpkg.com/pify/-/pify-3.0.0.tgz#e5a4acd2c101fdf3d9a4d07f0dbc4db49dd28176"
   integrity sha1-5aSs0sEB/fPZpNB/DbxNtJ3SgXY=
 
-prettier-plugin-svelte@~1.4.1:
-  version "1.4.1"
-  resolved "https://registry.yarnpkg.com/prettier-plugin-svelte/-/prettier-plugin-svelte-1.4.1.tgz#2f0f7a149190f476dc9b4ba9da8d482bd196f1e2"
-  integrity sha512-6y0m37Xw01GRf/WIHau+Kp3uXj2JB1agtEmNVKb9opMy34A6OMOYhfneVpNIlrghQSw/jIV+t3e5Ngt4up2CMA==
+prettier-plugin-svelte@~2.1.0:
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/prettier-plugin-svelte/-/prettier-plugin-svelte-2.1.0.tgz#61b930107cf4eb8bdae0e9d416e47fb36ee6b53c"
+  integrity sha512-AeGJWicKCU9CbPKj9Wzk7apdCJwB8gzFHOMMqJh1X4LiwkMLHUjjysowH+SZfHdg69Hjv5rw5M7uJn0WobFhRQ==
 
 prettier@2.2.1:
   version "2.2.1"
@@ -1314,17 +1314,17 @@ supports-color@^5.3.0:
   dependencies:
     has-flag "^3.0.0"
 
-svelte-language-server@^0.11.0:
-  version "0.11.3"
-  resolved "https://registry.yarnpkg.com/svelte-language-server/-/svelte-language-server-0.11.3.tgz#74435d619ff8597686aa64f2d3fccaa3c10c3481"
-  integrity sha512-djESdOP2aAWxfIuLca7uyxMSM9WDTivHL18++JSA+WTbcRMOYblURR9179sqUafo6dGUM4ms6T224Vb4f7y5cQ==
+svelte-language-server@^0.12.0:
+  version "0.12.0"
+  resolved "https://registry.yarnpkg.com/svelte-language-server/-/svelte-language-server-0.12.0.tgz#3160168cdcc744a31b3637cd6c4f5a9662cad3db"
+  integrity sha512-pDA7hDVJ7psuu68MpQL226hDdEohv7uH6Y2w85YVih8J1HxFae46qhrHnxEE45C8u+dIQ3Pk+YlevH0F1LoXUA==
   dependencies:
     chokidar "^3.4.1"
     cosmiconfig "^7.0.0"
     estree-walker "^2.0.1"
     lodash "^4.17.19"
     prettier "2.2.1"
-    prettier-plugin-svelte "~1.4.1"
+    prettier-plugin-svelte "~2.1.0"
     source-map "^0.7.3"
     svelte "3.31.0"
     svelte-preprocess "~4.6.1"
