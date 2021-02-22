@@ -1315,9 +1315,9 @@ supports-color@^5.3.0:
     has-flag "^3.0.0"
 
 svelte-language-server@^0.12.0:
-  version "0.12.10"
-  resolved "https://registry.yarnpkg.com/svelte-language-server/-/svelte-language-server-0.12.10.tgz#46cf71496f0c4587e52f974b63ada9b4524c4cc8"
-  integrity sha512-Hsq1RseTFMpMBpIqRN24hVKxeFiVabg/+KWIgvbGwwX8xLyL/1Qii9vgbuD6d5172t3/6vUNJzP67MVW2ECZsA==
+  version "0.12.14"
+  resolved "https://registry.yarnpkg.com/svelte-language-server/-/svelte-language-server-0.12.14.tgz#6439eeeaf18d37004d24c6e6ad279392379ec627"
+  integrity sha512-pf569M9VeeyyPrRbmmQlndYO2nr8/Q2OMC1TlrCf7SBzqyqkCV1XirRRX5w2/RVq+T5tJC6k2tKTrNyhVF1mqQ==
   dependencies:
     chokidar "^3.4.1"
     cosmiconfig "^7.0.0"
