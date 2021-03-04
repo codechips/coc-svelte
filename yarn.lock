@@ -1058,10 +1058,10 @@ pify@^3.0.0:
   resolved "https://registry.yarnpkg.com/pify/-/pify-3.0.0.tgz#e5a4acd2c101fdf3d9a4d07f0dbc4db49dd28176"
   integrity sha1-5aSs0sEB/fPZpNB/DbxNtJ3SgXY=
 
-prettier-plugin-svelte@~2.1.0:
-  version "2.1.0"
-  resolved "https://registry.yarnpkg.com/prettier-plugin-svelte/-/prettier-plugin-svelte-2.1.0.tgz#61b930107cf4eb8bdae0e9d416e47fb36ee6b53c"
-  integrity sha512-AeGJWicKCU9CbPKj9Wzk7apdCJwB8gzFHOMMqJh1X4LiwkMLHUjjysowH+SZfHdg69Hjv5rw5M7uJn0WobFhRQ==
+prettier-plugin-svelte@~2.2.0:
+  version "2.2.0"
+  resolved "https://registry.yarnpkg.com/prettier-plugin-svelte/-/prettier-plugin-svelte-2.2.0.tgz#4bd94992fa5b76413a8a5556f90b128c4fdaf7a6"
+  integrity sha512-Xdmqgr71tAuMqqzNCK52/v94g/Yv7V7lz+nmbO9NEA+9ol15VV3uUHOfydMNOo3SWvFaVlBcp947ebEaMWqVfQ==
 
 prettier@2.2.1:
   version "2.2.1"
@@ -1315,18 +1315,18 @@ supports-color@^5.3.0:
     has-flag "^3.0.0"
 
 svelte-language-server@^0.12.0:
-  version "0.12.15"
-  resolved "https://registry.yarnpkg.com/svelte-language-server/-/svelte-language-server-0.12.15.tgz#00f4162df8379e89c7cccc51a5475e63a9f0fdbf"
-  integrity sha512-7tYY1iEVc883QABfXDjwqHwVbJlsWkfgMQhR3PisHuzICGMCCV8Y/oZnhP9Tzc/R8N+tanBhQCYaGlfgE+T1lQ==
+  version "0.12.17"
+  resolved "https://registry.yarnpkg.com/svelte-language-server/-/svelte-language-server-0.12.17.tgz#398ad73b8ff879a0951087dcb646d83f664e5425"
+  integrity sha512-Z6GfjAz6C9WwJdrF99gi+kHFI7iDRdiBMywnyuphcSHqNr0IA8sXGpL2Jcb0M1mywg6YuDrwb3hm2fwVUOfA6Q==
   dependencies:
     chokidar "^3.4.1"
     cosmiconfig "^7.0.0"
     estree-walker "^2.0.1"
     lodash "^4.17.19"
     prettier "2.2.1"
-    prettier-plugin-svelte "~2.1.0"
+    prettier-plugin-svelte "~2.2.0"
     source-map "^0.7.3"
-    svelte "~3.32.1"
+    svelte "~3.35.0"
     svelte-preprocess "~4.6.1"
     svelte2tsx "*"
     typescript "*"
@@ -1352,10 +1352,10 @@ svelte2tsx@*:
   resolved "https://registry.yarnpkg.com/svelte2tsx/-/svelte2tsx-0.1.37.tgz#96fd2324cdeb57322d2f4fdcd3825d3992fe4c5a"
   integrity sha512-3WAbFhnzVgJ7HlKQ91ICBsZ4nHmYfrwa4SteSdeACIFXxuaas9XX4bIaBguCNmMGPNn2EkmjkxdBbwxrbugcUQ==
 
-svelte@~3.32.1:
-  version "3.32.1"
-  resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.32.1.tgz#c4b6e35517d0ed77e652cc8964ef660afa2f70f3"
-  integrity sha512-j1KmD2ZOU0RGq1/STDXjwfh0/eJ/Deh2NXyuz1bpR9eOcz9yImn4CGxXdbSAN7cMTm9a7IyPUIbuBCzu/pXK0g==
+svelte@~3.35.0:
+  version "3.35.0"
+  resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.35.0.tgz#e0d0ba60c4852181c2b4fd851194be6fda493e65"
+  integrity sha512-gknlZkR2sXheu/X+B7dDImwANVvK1R0QGQLd8CNIfxxGPeXBmePnxfzb6fWwTQRsYQG7lYkZXvpXJvxvpsoB7g==
 
 tar@^6.0.5:
   version "6.0.5"
