@@ -1228,9 +1228,9 @@ supports-color@^5.3.0:
     has-flag "^3.0.0"
 
 svelte-language-server@^0.13.2:
-  version "0.13.2"
-  resolved "https://registry.yarnpkg.com/svelte-language-server/-/svelte-language-server-0.13.2.tgz#aef704f872b760fd91520091f9b6227ed0b2c79e"
-  integrity sha512-mOcSqZUM9zJORyl1FbODC4TSvlYgOgQmlEKzDj77D1JyuXfYD+XSnqxJufwa0DqI05y8uKMBKj0AWWeTu1OZjw==
+  version "0.13.4"
+  resolved "https://registry.yarnpkg.com/svelte-language-server/-/svelte-language-server-0.13.4.tgz#2496a2db83cea4ab166288756ce89e2b7ed248a1"
+  integrity sha512-xINgsQG4KSslBn3WbiIj5YyZg5d3aq0skdwDLqYqkV4MPR2U3xW8aSxJy6jQ8BAQv09hYGU90vYfFR2e0xm17A==
   dependencies:
     chokidar "^3.4.1"
     estree-walker "^2.0.1"
